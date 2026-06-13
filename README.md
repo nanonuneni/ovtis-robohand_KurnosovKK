@@ -9,7 +9,9 @@ HomeWork
 
 УПРАВЛЕНИЕ
 Посмотреть текущий статус: http://localhost:5000/
-Уставновить статус в ON: http://localhost:5000/status-on
+
+Установить статус в ON: http://localhost:5000/status-on
+
 Установить статус в OFF: http://localhost:5000/status-off
 
 В репозитории так же есть эскзиз робо-руки.
